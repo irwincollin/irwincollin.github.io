@@ -4,9 +4,23 @@ title: Collin Irwin
 ---
 
 <div id="home">
-  <h1>Blog Posts</h1>
+  <h1>General Blog</h1>
   <ul class="posts">
-    {% for post in site.posts %}
+    {% for post in site.general %}
+      <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
+    {% endfor %}
+  </ul>
+
+  <h1>Life Micro-Optimizations (aka Life Hacks)</h1>
+  <ul class="posts">
+    {% for post in site.optimization %}
+      <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
+    {% endfor %}
+  </ul>
+
+  <h1>Reading List</h1>
+  <ul class="posts">
+    {% for post in site.books %}
       <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
     {% endfor %}
   </ul>
