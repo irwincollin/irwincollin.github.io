@@ -1,8 +1,6 @@
 ---
 layout: post
 title: A Test Post for irwincollin.Github.io
-tags:
-- test
 ---
 
 h1. {{ page.title }}
