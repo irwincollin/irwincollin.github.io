@@ -19,25 +19,16 @@
 
 <div class="site">
   <div class="title">
-    <a href="/">Collin Irwin</a>
+    <a href="/about.html">Collin Irwin</a>
     <a class="extra" href="/">home</a>
+
+    <a class="extra" href="/portfolio.html">portfolio & resume</a>
+    <a class="extra" href="/contact.html">contact</a>
   </div>
 
   {{ content }}
 
   <div class="footer">
-    <div class="contact">
-      <p>
-        Collin Irwin
-        <br />
-        email goes here!
-      </p>
-    </div>
-    <div class="contact">
-      <p>
-        <a href="http://github.com/irwincollin/">github.com/irwincollin</a><br />
-      </p>
-    </div>
   </div>
 </div>
 

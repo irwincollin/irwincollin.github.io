@@ -1,0 +1,12 @@
+---
+layout: post
+title: Head First Design Patterns
+tags:
+- book
+---
+
+h1. {{ page.title }}
+
+p(meta). 17 Aug 2015
+
+test

@@ -1,12 +1,12 @@
 ---
 layout: post
-title: A Test Post for irwincollin.Github.io
+title: Pragmatic Programmer
 tags:
-- test
+- book
 ---
 
 h1. {{ page.title }}
 
 p(meta). 26 Jul 2015 - Melbourne, Florida
 
-well this sure is a test
+test
