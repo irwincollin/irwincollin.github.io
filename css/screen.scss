@@ -20,7 +20,7 @@ html, body {
   height: 100%;
 }
 
-body::before, body::after {
+body::before{
   content: "";
   box-sizing: border-box;
   margin: 0;
@@ -34,11 +34,6 @@ body::before, body::after {
   top: 0;
   width: 100%;
   z-index: -9999;
-}
-
-body::after {
-  bottom: 0;
-	position:relative;
 }
 
 body {

@@ -20,7 +20,24 @@ html, body {
   height: 100%;
 }
 
-body::before, body::after {
+#intro::before{
+  content: "";
+
+  margin: 0;
+  padding: 0;
+  background: $accent none repeat scroll 0 0;
+height: 5;
+  left: 0;
+  opacity: 0.3;
+  pointer-events: none;
+  position: relative;
+  top: 0;
+  width: 100%;
+  z-index: -9999;
+}
+
+
+body::before{
   content: "";
   box-sizing: border-box;
   margin: 0;
@@ -36,11 +53,6 @@ body::before, body::after {
   z-index: -9999;
 }
 
-body::after {
-  bottom: 0;
-	position:relative;
-}
-
 body {
   background-color: #FFFFFF;
   color: #000;
@@ -48,7 +60,6 @@ body {
   font-size: small;
   text-align: center;
 }
-
 
 h1 {
   /*margin-bottom: 1em;*/

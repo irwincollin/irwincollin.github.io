@@ -11,9 +11,6 @@
    <!-- Homepage CSS -->
    <link rel="stylesheet" href="/css/screen.css" type="text/css" media="screen, projection" />
 
-   <!-- Typekit -->
-   <script type="text/javascript" src="http://use.typekit.com/jpd0pfm.js"></script>
-   <script type="text/javascript">try{Typekit.load();}catch(e){}</script>
 </head>
 <body>
 
@@ -22,8 +19,8 @@
     <a href="/about.html">Collin Irwin</a>
     <a class="extra" href="/">home</a>
 
-    <a class="extra" href="/portfolio.html">portfolio & resume</a>
-    <a class="extra" href="/contact.html">contact</a>
+    <a class="extra" href="#portfolio">portfolio & resume</a>
+    <a class="extra" href="#contact">contact</a>
   </div>
 
   {{ content }}
