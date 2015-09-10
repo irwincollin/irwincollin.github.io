@@ -1,11 +1,11 @@
 ---
 layout: default
-modal-id: 101
-date: 2015-07-29
+modal-id: 2
+date: 2015-07-26
 tags:
 - book
-img: PragProg.jpg
-alt: The cover of the book "The Pragmatic Programmer"
+img: CleanCode.jpg
+alt: The cover of the book "Clean Code A Handbook of Agile Software Craftsmanship"
 project-date: July 2015
 client: Myself!
 category: Programming Principles

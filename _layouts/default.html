@@ -1,38 +1,23 @@
 <!DOCTYPE html>
-<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en-us">
-<head>
-   <meta http-equiv="content-type" content="text/html; charset=utf-8" />
-   <title>{{ page.title }}</title>
-   <meta name="author" content="Collin Irwin" />
+<html>
+    {% include head.html %}
+    <body id="page-top" class="index">
+    {% include nav.html %}
+    {% include header.html %}
+    {% include portfolio_grid.html %}
+    {% include book_grid.html %}
+    {% include about.html %}
 
-   <!-- syntax highlighting CSS -->
-   <link rel="stylesheet" href="/css/syntax.css" type="text/css" />
+    {% if site.contact == "static" %}
+    {% include contact_static.html %}
+    {% elsif site.contact == "dynamic" %}
+    {% include contact.html %}
+    {% elsif site.contact == "info" %}
+    {% include contact_info.html %}
+    {% endif %}
 
-   <!-- Homepage CSS -->
-   <link rel="stylesheet" href="/css/screen.css" type="text/css" media="screen, projection" />
-
-</head>
-<body>
-
-<div class="site">
-
-  <div class="title">
-  	<div class="content">
-	    <a href="/about">Collin Irwin</a>
-	    <a class="extra" href="/">home</a>
-	    <a class="extra" href="#portfolio">portfolio & resume</a>
-	    <a class="extra" href="#contact">contact</a>
-	</div>
-  </div>
-
-  <div class="titlePlaceholder">
-  </div>
-
-  {{ content }}
-
-  <div class="footer">
-  </div>
-</div>
-
-</body>
+    {% include footer.html %}
+    {% include modals.html %}
+    {% include js.html %}
+    </body>
 </html>

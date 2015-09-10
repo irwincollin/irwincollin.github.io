@@ -1,0 +1,14 @@
+---
+layout: default
+modal-id: 2
+date: 2015-05-23
+tags:
+- portfolio
+img: ELVIS.png
+alt: A depiction of the ELVIS application's visit screen on iOS.
+project-date: May 2015
+client: Riversoft, Inc
+category: App Development
+description: ELVIS is a Cross-Platform mobile application developed using Xamarin and Xamarin.Forms. The language used for these platforms is C#. ELVIS works on both iOS and Android, and could be easily modified to work with Windows Phones as well. <br><br>ELVIS provides employees with their schedules, shows them task lists, verifies their location with their employer, and records the tasks they've done during their visit as well as the time the tasks were completed. ELVIS is an effective and low-priced solution for employee management that eliminates the need for paper schedules and timesheets. <br> For more information, see <a href="http://riversoft.net/Home/ELVIS" target="_blank">ELVIS on Riversoft.net</a>
+
+---

@@ -35,10 +35,10 @@ title: Collin Irwin
 	<a href="http://riversoft.net/Home/ELVIS" target="_blank"> ELVIS on Riversoft.net </a>
 	<p> Cross-Platform mobile application developed using Xamarin and Xamarin.Forms.</p>
 	<br>
-
+	<div>
 	<img src="http://riversoft.net/Content/Images/Elvis/iosVisit.png" width="250" border="1"/>
 	<img src="http://riversoft.net/Content/Images/Elvis/androidLogin.png" width="250"/>
-
+	</div>
 	</div>
 
 	<br>
@@ -47,6 +47,7 @@ title: Collin Irwin
 	<div id="colortool">
 	<h2>Color Tool</h3>
 	<br>
+	<h5>Video:</h5>
 	<video width="385" height="682" controls>
 	  <source src="AndroidColorPicker.mp4" type="video/mp4">
 	  Your browser does not support this video.

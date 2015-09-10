@@ -1,12 +1,14 @@
 ---
-layout: post
-title: Pragmatic Programmer
+layout: default
+modal-id: 1
+date: 2015-07-29
 tags:
-- bok
+- book
+img: PragProg.jpg
+alt: The cover of the book "The Pragmatic Programmer"
+project-date: July 2015
+client: Myself!
+category: Programming Principles
+description: Coming soon!
+
 ---
-
-h1. {{ page.title }}
-
-p(meta). 26 Jul 2015 - Melbourne, Florida
-
-test
