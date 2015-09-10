@@ -4,7 +4,7 @@ modal-id: 103
 date: 2015-08-17
 tags:
 - book
-img: colorpicker.png
+img: HFDP.png
 alt: The cover of the book Head First Design PAtterns
 project-date: Aug 2015
 client: Myself!
