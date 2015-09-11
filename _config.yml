@@ -3,21 +3,21 @@ title: Collin Irwin
 email: irwincollin@ufl.edu
 url: https://irwincollin.github.io
 description: "Collin Irwin's magnificent website!"
-skills: "Junior Software Engineer and Problem Solver"
+skills: "Software Engineering Student"
 
 # Contact form: comment the line below if you want to stick with the default PHP contact form
-contact: info
+contact: none
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
-  primary: 18bc9c #80B3FF
-  primary-rgb: "24,288,156" #"128,179,255"
-  secondary: 2c3e50 #FD6E8A
-  secondary-dark: 233140 #A2122F
+  primary: 2E0927 #80B3FF
+  primary-rgb: "46, 9, 39" #"128,179,255"
+  secondary: 04756F #FD6E8A
+  secondary-dark: 034A46 #A2122F
 
 # Footer settings
 footer:
-  copyright: Dr. Henry Jekyll
+  copyright: Collin Haldane Irwin
   location: Location
   social: Around the Web
   links: Links
@@ -36,7 +36,7 @@ address:
   - line: (Only guaranteed to be available during Fall and Spring)
 
 # Links content
-links: '<a href="http://getbootstrap.com/">Get bootstrap</a>. <br> <a href="http://startbootstrap.com/">Start Bootstrap</a>'
+links: '<a href="http://getbootstrap.com/">Get bootstrap</a><br><a href="http://startbootstrap.com/">Start Bootstrap</a>'
 
 # Build settings
 markdown: kramdown
