@@ -18,6 +18,7 @@
 			    {% else %}
                             <img src="img/portfolio/{{ post.img }}" class="img-responsive img-centered limitWidth" alt="{{ post.alt }}">
 			    {% endif %}
+				{ post.affiliate }}
                             <p>{{ post.description }}</p>
                             <ul class="list-inline item-details">
                                 <li>Client:
@@ -31,7 +32,6 @@
                                 </li>
                             </ul>
                             <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
-				{{ post.affiliate }}
                         </div>
                     </div>
                 </div>
