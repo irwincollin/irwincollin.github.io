@@ -4,7 +4,7 @@ modal-id: 1
 date: 2015-11-07
 tags:
 - portfolio
-img: foodquest.png
+img: FoodQuest.png
 alt: Start screen of Food Quest educational video game
 project-date: November 2015
 client: HackDuke Hackathon
