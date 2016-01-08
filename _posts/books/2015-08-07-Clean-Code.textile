@@ -9,7 +9,7 @@ alt: The cover of the book "Clean Code A Handbook of Agile Software Craftsmanshi
 project-date: July 2015
 client: Myself!
 category: Programming Principles
-description: > 
+description: >
  After reading The Pragmatic Programmer, I felt that clean coding was one of the most important skills I could learn. Clean Code by Robert Martin is one of the most recommended books on the subject. For anyone who doesn't pay much attention to their coding style, or who has yet to work significantly with others outside of academia, I recommend they read Clean Code right away.
  <br><br>
  As a student myself, I look back at the code I wrote a year ago and cringe. Writing dense and complex code is not a good thing. The fact that you can understand it and your peers can't doesn't mean you're smarter than them, it means you wrote crappy code. Clean Code can help.
@@ -17,7 +17,5 @@ description: >
  Now, that isn't to say Clean Code is perfect. I had some significant disagreements with Martin, but it is important that even he concedes that style is a preference. I still believe that the book is highly worth the read, but make sure to keep in mind that it contains recommendations not law.<a href="http://www.amazon.com/gp/customer-reviews/R2OIW00AZ1P7IO/ref=cm_cr_pr_rvw_ttl?ie=UTF8&ASIN=0132350882">This Amazon review</a> is worth reading to see where I, and this reviewer, disagree with Martin.
  <br><br>
  Notes coming soon!
-affiliate: |
- <a class="amazon" href="http://www.amazon.com/gp/product/0132350882/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0132350882&linkCode=as2&tag=colli05-20&linkId=LQVNV2NRQTPBCNAX">View on Amazon</a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=colli05-20&l=as2&o=1&a=0132350882" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
-
+affiliate:
 ---

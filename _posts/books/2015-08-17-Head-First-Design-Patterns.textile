@@ -10,7 +10,5 @@ project-date: Aug 2015
 client: Myself!
 category: Programming Principles
 description: Coming soon!
-affiliate: |
- <a class="amazon" href="http://www.amazon.com/gp/product/0596007124/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0596007124&linkCode=as2&tag=colli05-20&linkId=JBFJ5EWHF262L2HA">View on Amazon</a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=colli05-20&l=as2&o=1&a=0596007124" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
-
+affiliate: 
 ---
