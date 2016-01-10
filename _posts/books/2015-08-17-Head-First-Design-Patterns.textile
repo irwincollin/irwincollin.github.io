@@ -5,10 +5,10 @@ date: 2015-08-17
 tags:
 - book
 img: HFDP.jpg
-alt: The cover of the book Head First Design PAtterns
+alt: The cover of the book 'Head First Design Patterns'
 project-date: Aug 2015
 client: Myself!
 category: Programming Principles
 description: Coming soon!
-affiliate: 
+affiliate:
 ---

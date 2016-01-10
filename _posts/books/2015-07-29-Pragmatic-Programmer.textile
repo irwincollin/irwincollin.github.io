@@ -5,7 +5,7 @@ date: 2015-07-29
 tags:
 - book
 img: PragProg.jpg
-alt: The cover of the book "The Pragmatic Programmer"
+alt: The cover of the book 'The Pragmatic Programmer'
 project-date: July 2015
 client: Myself!
 category: Programming Principles

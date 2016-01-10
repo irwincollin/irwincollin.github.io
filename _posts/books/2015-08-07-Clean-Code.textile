@@ -5,7 +5,7 @@ date: 2015-07-26
 tags:
 - book
 img: CleanCode.jpg
-alt: The cover of the book "Clean Code A Handbook of Agile Software Craftsmanship"
+alt: The cover of the book 'Clean Code A Handbook of Agile Software Craftsmanship'
 project-date: July 2015
 client: Myself!
 category: Programming Principles
